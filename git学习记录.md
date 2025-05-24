@@ -83,7 +83,7 @@ git checkout <--->^
 
 ![image-20250411204736040](C:\Users\liuwei\AppData\Roaming\Typora\typora-user-images\image-20250411204736040.png)
 
-git branch -f main HEAD~3; 让分支main 强制指向HEAD的第三级parent提交；
+**git branch -f** main HEAD~3; 让分支main 强制指向HEAD的第三级parent提交；
 
 ![image-20250411204755937](C:\Users\liuwei\AppData\Roaming\Typora\typora-user-images\image-20250411204755937.png)
 
